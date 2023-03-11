@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chihab hamaz" target="blank"><img src="https://img.shields.io/twitter/follow/chihab hamaz?logo=twitter&style=for-the-badge" alt="chihab hamaz" /></a> </p>
 
-- 🔭 I’m currently working on **website project**
+- 🔭 I’m currently working on **Back-end web devlopment**
 
 - 🌱 I’m currently learning **node JS**
 
