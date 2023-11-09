@@ -7,7 +7,7 @@
 
 ```
 🚀 About Me
--Hey there, I'm Third year Computer Engineering student in ESTIN
+- Hey there, I'm Third year Computer Engineering student in ESTIN
 - Back-End Developer
 ```
 
@@ -119,9 +119,9 @@
 
 
 ###
-# 🌐 Socials :
-<div align="left">
 
+<h3 align="left">🔔 Socials :</h3>
+<div align="left">
    <a href="https://instagram.com/chihab_hamaz" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
     <a href="https://twitter.com/chihab hamaz" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" /></a>
   <a href="https://discord.gg/Chihab hmz#6568" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
@@ -130,7 +130,9 @@
 
 </div>
 
-  <h3 align="left">📊  My Stats :</h3>
+
+
+  <h3 align="left">   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30"> My Stats :</h3>
 
 
 <div align="center">
