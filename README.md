@@ -1,11 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
 <h2 align="center">Hi👋, I'm Chihab Eddine Hamaz</h2>
-<h4 align="center">A passionate BackEnd developer from Algeria</h4>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+<div align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamaz-chihab&label=Profile%20views&color=0e75b6&style=flat" alt="hamaz-chihab" /> </p>
 </div>
-<br clear="both">
 
 
 ```
@@ -13,16 +10,13 @@
 -Hey there, I'm Third year Computer Engineering student in ESTIN
 - Back-End Developer
 ```
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="400" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="400" alt="languages graph"  />
-</div>
+
 
 ###
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1050">
 <img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
 
-
+# 💻 Tech Stack :
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -84,7 +78,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
 
@@ -126,7 +119,7 @@
 
 
 ###
-
+# 🌐 Socials :
 <div align="left">
 
    <a href="https://instagram.com/chihab_hamaz" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
@@ -137,7 +130,7 @@
 
 </div>
 
-  <h3 align="left">🔥   My Stats :</h3>
+  <h3 align="left">📊  My Stats :</h3>
 
 
 <div align="center">
